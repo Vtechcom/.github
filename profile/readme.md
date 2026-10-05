@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vtechcom — Hydra Engineering Team
+# VTechcom Labs — Hydra Engineering Team
 
 **Making Hydra practical.**
 
