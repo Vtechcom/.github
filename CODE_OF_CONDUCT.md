@@ -46,7 +46,7 @@ This Code of Conduct applies in all VTechcom spaces — GitHub, Discord, events,
 
 ## Enforcement
 
-Report incidents to the Discord moderators (**Tony**, **ThanhDT**) via direct message, or by email to `[CONDUCT_EMAIL]`. All reports are reviewed promptly and kept confidential. Moderators may take any action they deem appropriate, as described above.
+Report incidents to the Discord moderators (**Tony**, **ThanhDT**) via direct message, or by email to haipham@vtechcom.org. All reports are reviewed promptly and kept confidential. Moderators may take any action they deem appropriate, as described above.
 
 ## Attribution
 
@@ -66,4 +66,4 @@ Adapted from the [Contributor Covenant](https://www.contributor-covenant.org), v
 
 **Không hoạt động 30 ngày:** chuyển `inactive`, thu hồi quyền write (có thể quay lại).
 
-Báo cáo vi phạm: nhắn riêng mod Discord (**Tony**, **ThanhDT**) hoặc email `[CONDUCT_EMAIL]`.
+Báo cáo vi phạm: nhắn riêng mod Discord (**Tony**, **ThanhDT**) hoặc email haipham@vtechcom.org.
