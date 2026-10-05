@@ -1,0 +1,79 @@
+name: 🧪 Test report
+description: Report a problem found during a test round (games, Playground, HydraOne)
+labels: ["test-report", "needs-repro"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Testnet only — test assets have no value. Recognition is based on report quality, not on game results.
+        Chỉ testnet — tài sản test không có giá trị. Ghi nhận dựa trên chất lượng báo cáo, không dựa trên kết quả thắng/thua.
+  - type: input
+    id: product
+    attributes:
+      label: Product / game
+      placeholder: e.g. hydra-mines, hydra-rivercross, hydra-graveyard, SDK Playground
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL & version
+      placeholder: https://... (version shown in the app footer, if any)
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity / Mức độ
+      options:
+        - Critical — funds stuck/lost, cannot continue
+        - Major — feature broken, workaround exists
+        - Minor — wrong behaviour, small impact
+        - UX — confusing, ugly, typo
+    validations:
+      required: true
+  - type: input
+    id: wallet
+    attributes:
+      label: Wallet & browser
+      placeholder: e.g. Eternl 1.x on Chrome 130, Android
+    validations:
+      required: true
+  - type: dropdown
+    id: network
+    attributes:
+      label: Network
+      options: [preprod, preview]
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / Các bước tái hiện
+      placeholder: |
+        1. ...
+        2. ...
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected vs actual / Kỳ vọng và thực tế
+    validations:
+      required: true
+  - type: input
+    id: tx
+    attributes:
+      label: Transaction hash(es) (if any)
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots / video
+      description: Required for Critical and Major. Never include seed phrases or private keys!
+    validations:
+      required: true
+  - type: input
+    id: discord
+    attributes:
+      label: Discord handle
+      description: So we can credit you / Để ghi nhận đóng góp
