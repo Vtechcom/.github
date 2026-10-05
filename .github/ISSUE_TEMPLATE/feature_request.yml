@@ -1,0 +1,33 @@
+name: ✨ Feature request
+description: Suggest a new feature or improvement
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / Vấn đề
+      description: What problem does this solve? Who has it?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution / Giải pháp đề xuất
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered / Phương án khác
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria / Tiêu chí hoàn thành
+      placeholder: |
+        - [ ] ...
+  - type: checkboxes
+    id: volunteer
+    attributes:
+      label: Contribution
+      options:
+        - label: I would like to work on this (wait to be assigned before starting)

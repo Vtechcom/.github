@@ -1,0 +1,63 @@
+name: 🐛 Bug report
+description: Something is not working as expected
+labels: ["bug", "needs-repro"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! Please fill in every field. Reports without reproduction steps will be closed after 7 days.
+        Cảm ơn bạn! Vui lòng điền đủ các mục. Báo cáo không có bước tái hiện sẽ bị đóng sau 7 ngày.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary / Tóm tắt
+      description: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / Các bước tái hiện
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected vs actual / Kỳ vọng và thực tế
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version / commit
+      placeholder: e.g. @hydra-sdk/core@1.4.2, commit abc123
+    validations:
+      required: true
+  - type: dropdown
+    id: network
+    attributes:
+      label: Network
+      options: [preprod, preview, mainnet, local devnet, not applicable]
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment / Môi trường
+      description: OS, browser, Node version, wallet, hydra-node version…
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / screenshots
+      description: Paste logs or drag images here. Never include private keys or mnemonics!
+      render: shell
+  - type: checkboxes
+    id: ai
+    attributes:
+      label: AI usage
+      options:
+        - label: I used an AI tool to write this report, and I verified every detail myself.

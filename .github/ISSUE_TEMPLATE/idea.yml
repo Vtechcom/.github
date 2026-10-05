@@ -1,0 +1,28 @@
+name: 💡 Idea
+description: Propose an idea (max 2 per week per person). Accepted ideas become backlog issues.
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas earn recognition only when they are accepted into the backlog.
+        Ý tưởng chỉ được ghi nhận khi được chấp nhận vào backlog. Tối đa 2 ý tưởng/tuần/người.
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea / Ý tưởng
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it matters for HydraOne / Vì sao quan trọng
+    validations:
+      required: true
+  - type: textarea
+    id: feasibility
+    attributes:
+      label: Feasibility / Tính khả thi
+      description: Rough effort, dependencies, risks, which repo it touches
+    validations:
+      required: true
