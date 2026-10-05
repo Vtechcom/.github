@@ -2,7 +2,7 @@
 
 *Tiếng Việt bên dưới.*
 
-This Code of Conduct is adapted from the [Contributor Covenant, version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), with additional rules for the VTechcom Contributor Program.
+This Code of Conduct is adapted from the [Contributor Covenant, version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), with additional rules for the VTechcom Labs Contributor Program.
 
 ## Our pledge
 
@@ -22,7 +22,7 @@ We pledge to make participation in our community a harassment-free experience fo
 - Spam, scams, unsolicited token/NFT promotion, phishing links.
 - Submitting work you do not understand or misrepresenting authorship.
 
-## VTechcom Contributor Program rules
+## VTechcom Labs Contributor Program rules
 
 **Immediate removal (no warning):**
 - Leaking code or information from private repositories or private channels.
@@ -42,7 +42,7 @@ When access is removed, GitHub and Discord access are revoked at the same time.
 
 ## Scope
 
-This Code of Conduct applies in all VTechcom spaces — GitHub, Discord, events, seminars and Demo Days — and when an individual is officially representing the community.
+This Code of Conduct applies in all VTechcom Labs spaces — GitHub, Discord, events, seminars and Demo Days — and when an individual is officially representing the community.
 
 ## Enforcement
 

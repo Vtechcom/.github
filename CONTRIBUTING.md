@@ -1,6 +1,6 @@
-# Contributing to VTechcom
+# Contributing to VTechcom Labs
 
-Thanks for your interest in contributing to VTechcom and the HydraOne ecosystem! 🎉
+Thanks for your interest in contributing to VTechcom Labs and the HydraOne ecosystem! 🎉
 *Tiếng Việt: xem [phần tóm tắt bên dưới](#tóm-tắt-tiếng-việt).*
 
 This guide applies to every repository in the `Vtechcom` organization unless a repository has its own `CONTRIBUTING.md`.
@@ -64,8 +64,8 @@ Use [Conventional Commits](https://www.conventionalcommits.org/): `feat:`, `fix:
 
 ## Licensing
 
-- Public repositories are licensed under **Apache 2.0**; by signing the CLA you grant VTechcom a license to your contributions.
-- Private repositories are covered by your **NDA**, which assigns the economic rights of your contributions to VTechcom.
+- Public repositories are licensed under **Apache 2.0**; by signing the CLA you grant VTechcom Labs a license to your contributions.
+- Private repositories are covered by your **NDA**, which assigns the economic rights of your contributions to VTechcom Labs.
 
 ---
 
