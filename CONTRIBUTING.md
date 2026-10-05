@@ -7,7 +7,7 @@ This guide applies to every repository in the `Vtechcom` organization unless a r
 
 ## Before you start
 
-1. **Join our Discord** and read `#rules` and `#start-here`.
+1. **Join our [Discord](https://discord.gg/NPfH5gRbHC)** and read `#rules` and `#start-here`.
 2. **Sign the CLA.** All contributions require a signed Contributor License Agreement. The CLA bot will prompt you on your first pull request.
 3. **Enable 2FA** on your GitHub account.
 4. Read the [Code of Conduct](CODE_OF_CONDUCT.md).

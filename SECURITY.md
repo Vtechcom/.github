@@ -7,7 +7,7 @@
 Please report privately using one of:
 
 1. **GitHub private vulnerability reporting** — on the affected repository, go to *Security → Report a vulnerability*.
-2. Email `[SECURITY_EMAIL]`.
+2. Email haipham@vtechcom.org.
 
 Please include:
 
@@ -33,4 +33,4 @@ Of particular interest:
 
 ---
 
-**Tiếng Việt:** Không tạo issue công khai cho lỗ hổng bảo mật. Báo riêng qua *Security → Report a vulnerability* trên repo hoặc email `[SECURITY_EMAIL]`. Chúng tôi phản hồi trong vòng 3 ngày làm việc.
+**Tiếng Việt:** Không tạo issue công khai cho lỗ hổng bảo mật. Báo riêng qua *Security → Report a vulnerability* trên repo hoặc email haipham@vtechcom.org. Chúng tôi phản hồi trong vòng 3 ngày làm việc.
