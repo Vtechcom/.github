@@ -36,6 +36,11 @@ We pledge to make participation in our community a harassment-free experience fo
 - Abandoning an assigned issue for more than 7 days without notice.
 - Failing a PR defense (unable to explain your own change).
 
+**What demotion means:**
+- **X2 → X3 (Tester):** removed from the `x2` team; you can still join test rounds and report bugs. You may return to X2 after 30 days with at least one `confirmed` test report and mentor approval. A further violation while at X3 removes all access.
+- **X1 → X2:** removed from all private-repository teams; delete all copies of private code within 7 days. Your NDA obligations remain in force.
+- "Immediate removal" violations remove all access at any tier, without demotion first.
+
 **Inactivity:** 30 days without activity → `inactive` status and write access removed. You can come back any time.
 
 When access is removed, GitHub and Discord access are revoked at the same time.
@@ -63,6 +68,11 @@ Adapted from the [Contributor Covenant](https://www.contributor-covenant.org), v
 **Thu hồi quyền ngay, không cảnh cáo:** làm lộ mã/thông tin repo hoặc kênh private; truy cập secret/hạ tầng ngoài phạm vi; dùng mã private ngoài phạm vi NDA; quấy rối.
 
 **Cảnh cáo 1 lần, sau đó hạ bậc:** push thẳng `main`/`master`/`release`; đóng góp khi chưa ký CLA; bỏ issue đã nhận quá 7 ngày không báo; không giải thích được PR khi bảo vệ.
+
+**Hạ bậc nghĩa là:**
+- **X2 → X3 (Tester):** gỡ khỏi team `x2`, vẫn tham gia test và báo lỗi. Quay lại X2 sau 30 ngày nếu có ít nhất 1 báo cáo test `confirmed` và mentor đồng ý. Vi phạm tiếp khi ở X3 → thu hồi toàn bộ quyền.
+- **X1 → X2:** gỡ khỏi mọi team repo private, xoá mọi bản sao mã private trong 7 ngày. Nghĩa vụ NDA vẫn hiệu lực.
+- Vi phạm thuộc nhóm "thu hồi ngay" → thu hồi toàn bộ ở mọi bậc, không qua hạ bậc.
 
 **Không hoạt động 30 ngày:** chuyển `inactive`, thu hồi quyền write (có thể quay lại).
 
