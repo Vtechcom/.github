@@ -1,6 +1,6 @@
 # Sổ tay Contributor VTechcom Labs
 
-> Phiên bản 0.1 (bản nháp) · Áp dụng từ đợt 1  
+> Phiên bản 1.0.0 · Áp dụng từ đợt 1  
 > Tài liệu đi kèm: [Contributing guide](https://github.com/Vtechcom/.github/blob/main/CONTRIBUTING.md) · [Code of Conduct](https://github.com/Vtechcom/.github/blob/main/CODE_OF_CONDUCT.md) · [Security policy](https://github.com/Vtechcom/.github/blob/main/SECURITY.md)
 
 Chào mừng bạn đến với Chương trình Contributor của VTechcom Labs! 👋
