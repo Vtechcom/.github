@@ -2,7 +2,7 @@
 
 *Tiếng Việt bên dưới.*
 
-This Code of Conduct is adapted from the [Contributor Covenant, version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), with additional rules for the VTechcom Contributor Program.
+This Code of Conduct is adapted from the [Contributor Covenant, version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), with additional rules for the VTechcom Labs Contributor Program.
 
 ## Our pledge
 
@@ -22,7 +22,7 @@ We pledge to make participation in our community a harassment-free experience fo
 - Spam, scams, unsolicited token/NFT promotion, phishing links.
 - Submitting work you do not understand or misrepresenting authorship.
 
-## VTechcom Contributor Program rules
+## VTechcom Labs Contributor Program rules
 
 **Immediate removal (no warning):**
 - Leaking code or information from private repositories or private channels.
@@ -36,13 +36,18 @@ We pledge to make participation in our community a harassment-free experience fo
 - Abandoning an assigned issue for more than 7 days without notice.
 - Failing a PR defense (unable to explain your own change).
 
+**What demotion means:**
+- **X2 → X3 (Tester):** removed from the `x2` team; you can still join test rounds and report bugs. You may return to X2 after 30 days with at least one `confirmed` test report and mentor approval. A further violation while at X3 removes all access.
+- **X1 → X2:** removed from all private-repository teams; delete all copies of private code within 7 days. Your NDA obligations remain in force.
+- "Immediate removal" violations remove all access at any tier, without demotion first.
+
 **Inactivity:** 30 days without activity → `inactive` status and write access removed. You can come back any time.
 
 When access is removed, GitHub and Discord access are revoked at the same time.
 
 ## Scope
 
-This Code of Conduct applies in all VTechcom spaces — GitHub, Discord, events, seminars and Demo Days — and when an individual is officially representing the community.
+This Code of Conduct applies in all VTechcom Labs spaces — GitHub, Discord, events, seminars and Demo Days — and when an individual is officially representing the community.
 
 ## Enforcement
 
@@ -63,6 +68,11 @@ Adapted from the [Contributor Covenant](https://www.contributor-covenant.org), v
 **Thu hồi quyền ngay, không cảnh cáo:** làm lộ mã/thông tin repo hoặc kênh private; truy cập secret/hạ tầng ngoài phạm vi; dùng mã private ngoài phạm vi NDA; quấy rối.
 
 **Cảnh cáo 1 lần, sau đó hạ bậc:** push thẳng `main`/`master`/`release`; đóng góp khi chưa ký CLA; bỏ issue đã nhận quá 7 ngày không báo; không giải thích được PR khi bảo vệ.
+
+**Hạ bậc nghĩa là:**
+- **X2 → X3 (Tester):** gỡ khỏi team `x2`, vẫn tham gia test và báo lỗi. Quay lại X2 sau 30 ngày nếu có ít nhất 1 báo cáo test `confirmed` và mentor đồng ý. Vi phạm tiếp khi ở X3 → thu hồi toàn bộ quyền.
+- **X1 → X2:** gỡ khỏi mọi team repo private, xoá mọi bản sao mã private trong 7 ngày. Nghĩa vụ NDA vẫn hiệu lực.
+- Vi phạm thuộc nhóm "thu hồi ngay" → thu hồi toàn bộ ở mọi bậc, không qua hạ bậc.
 
 **Không hoạt động 30 ngày:** chuyển `inactive`, thu hồi quyền write (có thể quay lại).
 
