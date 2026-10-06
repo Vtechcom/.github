@@ -10,7 +10,7 @@ This guide applies to every repository in the `Vtechcom` organization unless a r
 1. **Join our [Discord](https://discord.gg/NPfH5gRbHC)** and read `#rules` and `#start-here`.
 2. **Sign the CLA (and NDA) on paper.** All contributions require a signed Contributor License Agreement. Agreements are signed by hand at the VTechcom Labs office in one session during week 0. If you cannot come to the office, print, sign, scan and email the signed copy to haipham@vtechcom.org, then hand in the original later. You are invited to the GitHub organization only after your signature is recorded.
 3. **Enable 2FA** on your GitHub account.
-4. Read the [Code of Conduct](CODE_OF_CONDUCT.md).
+4. Read the [Code of Conduct](CODE_OF_CONDUCT.md) and the [Contributor Handbook](HANDBOOK.vi.md).
 
 ## Contributor tiers
 
@@ -22,7 +22,7 @@ This guide applies to every repository in the `Vtechcom` organization unless a r
 | **DevX-Intern** | Work on the SDK / HydraOne core with the core team (max 1 seat) | As assigned |
 | **DevX** | Core team | Maintainers |
 
-Promotion is based on merged work and mentor review. See the contributor handbook (linked in Discord `#start-here`).
+Promotion is based on merged work and mentor review. See the [Contributor Handbook (Vietnamese)](HANDBOOK.vi.md) for the full program: tiers, 4-week trial, schedule, scoring, legal and discipline.
 
 ## Workflow
 
@@ -83,6 +83,7 @@ Use [Conventional Commits](https://www.conventionalcommits.org/): `feat:`, `fix:
 ## Tóm tắt tiếng Việt
 
 1. Vào Discord, đọc `#rules`, `#start-here`. **Ký tay CLA và NDA tại văn phòng** (1 buổi ở tuần 0; ở xa: ký tay, scan gửi haipham@vtechcom.org, nộp bản gốc sau). Bật **2FA** GitHub. Chỉ được mời vào tổ chức GitHub sau khi đã ký.
+   Đọc [Sổ tay Contributor](HANDBOOK.vi.md) để nắm toàn bộ chương trình.
 2. Chọn issue có nhãn `good first issue` / `green 🤟` / `amber !` → comment xin nhận → **chờ được assign** rồi mới làm.
 3. Giới hạn: X2 tối đa 1 PR mở, X1 tối đa 2 PR mở; mỗi PR khoảng **≤ 400 dòng**.
 4. Điền **đầy đủ PR template** (thiếu mục sẽ bị đóng không review). CI phải xanh trước khi review.
